@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hey 👋, I am Madhu
 
-<!--
-**madhuraothota/madhuraothota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Iam a frontend developer having experience in javascript technologies. Currently learning Cloudcomputing(AWS and Azure),Java,python,DevOps and DSA and likes to involve in making cool projects :) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me on:
+- [Twitter](https://twitter.com/madhuraothota)
+- [LinkedIn](www.linkedin.com/in/madhu-thota)
+
+😄 Pronouns: He/His
+
+-----
+
+## 👨‍💻 Tech Skills
+
+![](https://img.shields.io/badge/HTML5-E34F26)
+![](https://img.shields.io/badge/CSS3-1572B6)
+![](https://img.shields.io/badge/JavaScript)
+![](https://img.shields.io/badge/React-20232A)
+![](https://img.shields.io/badge/Redux-purple)
+![](https://img.shields.io/badge/Markdown-000000)
+![](https://img.shields.io/badge/Git-F05032)
+
+
+
+-----
+
+## 📊 Github Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=madhuraothota&show_icons=true&theme=gotham" alt="Madhu Stats" />
+
+-----
+
